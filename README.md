@@ -10,7 +10,7 @@ Select the $5 a month tier and we recommend using ubuntu 18 flavours or Debian.
 
 ## Install
 ```
-wget -q https://raw.githubusercontent.com/ImTheDeveloper/next_mn/master/install.sh
+wget -q https://raw.githubusercontent.com/NextExchange/next-masternode-script/master/install.sh
 bash install.sh
 ```
 Follow the on-screen instructions.
